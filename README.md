@@ -26,6 +26,9 @@ Time spent: 3 hours spent in total
 	nmap -F 10.254.254.101
 	This script reveals all the port the website is using.
 	<img src='http://i.imgur.com/4lPFd1A.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+	sudo nmap -O 10.254.254.101
+	This script detectes the os.
+	<img src='http://i.imgur.com/QYtUKTa.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 - [x] A screen-cap of the attack being conducted
     
 ### Optional: Features
@@ -38,6 +41,6 @@ Time spent: 3 hours spent in total
 	- [ ] Custom IDS alert (example: email sent when footprinting detected)
 	- [ ] Custom incident response (example: IDS alert triggers added firewall rule to block an IP)
 - Demonstration
-	- [ ] Additional attack demos/writeups
+	- [x] Additional attack demos/writeups
 	- [ ] Captured malicious payload
 	- [ ] Enhanced logging of exploit post-exploit activity (example: attacker-initiated commands captured and logged)
