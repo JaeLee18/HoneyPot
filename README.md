@@ -29,6 +29,9 @@ Time spent: 3 hours spent in total
 	sudo nmap -O 10.254.254.101
 	This script detectes the os.
 	<img src='http://i.imgur.com/QYtUKTa.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+	This is the attack page in MHN server.
+	<img src='http://i.imgur.com/SK2dVcw.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 - [x] A screen-cap of the attack being conducted
     
 ### Optional: Features
